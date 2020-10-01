@@ -1,5 +1,5 @@
 package Chapter_1;
-public class Primitive_Variables_Declarations {
+public class PrimitiveVariablesDeclarations {
 
     public static void main(String[] args) {
         //Primitive Data variables initalization.
